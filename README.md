@@ -7,3 +7,6 @@ The Morris Method: https://www.planetarybiology.com/calculating_habitable_zone.h
 
 
 The dataset: https://www.kaggle.com/mrisdal/open-exoplanet-catalogue
+
+
+PULL COMMAND: `git pull origin main --recurse-submodules`
